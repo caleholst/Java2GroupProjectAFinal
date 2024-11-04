@@ -1,0 +1,5 @@
+com\mycompany\groupprojecta\resources\JakartaEE10Resource.class
+music\data\ProductIO.class
+submit\info\SubmitInfoServlet.class
+music\business\Product.class
+com\mycompany\groupprojecta\JakartaRestConfiguration.class
